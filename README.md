@@ -57,3 +57,17 @@ While Decision Tree (98.11%) and Neural Network (97.32%) achieved slightly highe
 * Lightweight & Scalable: Enables fast, low-cost inference in resource-constrained public health systems.
 
 Conclusion: MLR provides the best operational balance of high predictive accuracy, verified statistical stability, and complete model transparency.
+
+## How to Reproduce
+1. Clone the Repository & Install Dependencies:
+   ```bash
+   git clone [https://github.com/priyankaapk/obesity-risk-prediction-ml.git](https://github.com/priyankaapk/obesity-risk-prediction-ml.git)
+   cd obesity-risk-prediction-ml
+   pip install -r requirements.txt
+2. Execute 01_data_cleaning_and_eda.ipynb to process raw data in /data and generate cleaned dataset with explanatory data analysis.
+3. Execute 02_model_building_and_evaluation.ipynb to run hyperparameter searches and cross-validation pipelines.
+
+## References
+UCI Machine Learning Repository. (2019, August 26). Estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico. Archive.ics.uci.edu. https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
+
+United Nations calls for urgent action to curb the rise in hunger and obesity in Latin America and the Caribbean. UNICEF (2019). Www.unicef.org. https://www.unicef.org/lac/en/press-releases/united-nations-calls-urgent-action-curb-rise-hunger-and-obesity-latin-america-and
