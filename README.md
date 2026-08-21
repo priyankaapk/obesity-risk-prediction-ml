@@ -1,4 +1,4 @@
-# Prediction of Obesity Risk Using Lifestyle Factors
+# Machine Learning Modeling for Obesity Risk Assessment in Latin America
 
 ## Project Overview & Context
 Adult obesity in Latin America and the Caribbean has tripled since 1975, affecting 24% of the regional population and impacting the lives of hundreds of thousands (UNICEF, 2019). In Mexico, Peru, and Colombia, this explosive rise is driven by a complex interplay of socioeconomic status, rapid urbanization, behavioral dietary shifts toward processed foods, and environmental influences. Addressing this epidemic requires multi-faceted interventions targeting both individual and societal behaviors.
